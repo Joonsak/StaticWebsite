@@ -1,0 +1,2 @@
+# StaticWebsite
+ My individual tasks
