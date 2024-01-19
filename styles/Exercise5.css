@@ -18,7 +18,6 @@ body {
     background-color: white;
     padding: 10px;
     display: block;
-    margin-left: 5px;
     font-size: 25px;
 }
 main {
@@ -42,8 +41,8 @@ main {
     line-height: 1.5;
 }
 footer {
-    background-color: black;
-    color: white;
+    background-color: rgb(244, 244, 18);
+    color: black;
     text-align: center;
     padding: 20px;
     display: flex;
